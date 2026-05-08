@@ -15,4 +15,9 @@ for number in range(5,10): # 5,6,7,8,9 (5. the number is not included, but 10. t
 
 for number in range(5, 10, 2): # 5,7,9
      print(number)
-     
+
+
+'''  for book in shelf:
+      print(book) 
+it's like constantly checking books on the shelf ''' 
+
