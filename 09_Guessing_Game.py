@@ -1,3 +1,5 @@
+######## Guessing Game ##########
+
 secret_number = 4
 
 # Replaced 'i' with 'guess_count' to improve code readability. 
