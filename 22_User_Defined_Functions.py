@@ -4,7 +4,7 @@
 
 #The location we define is important. We cannot call it without defining it !!
 
-def greet_user(name, surname):   # Define
+def greet_user(name, surname):   # Define positional argument.
      print(f'Hi {name} {surname}!')
      print('Welcome aboard')  
 
